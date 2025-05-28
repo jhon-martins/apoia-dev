@@ -20,7 +20,7 @@ export async function Stats() {
         icon={<DollarSign className="w-8 h-8 text-amber-500" />}
         value={0}
       />
-
+ 
       <StatCard
         title="Saldo em conta"
         description="Saldo pendente"
