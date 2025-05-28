@@ -33,7 +33,7 @@ export default async function Apoia({
             height={96}
             quality={100}
           />
-          <h1 className=" font-bold text-xl md:text-2xl mt-20 mb-4">
+          <h1 className=" font-bold text-xl md:text-2xl mt-20 mb-4 ">
             Fulano Dev
           </h1>
         </div>
