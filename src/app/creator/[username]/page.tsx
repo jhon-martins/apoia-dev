@@ -17,7 +17,7 @@ export default async function Apoia({
           src={"https://github.com/devfraga.png"}
           alt="Banner"
           fill
-          className="object-cover opacity-50"
+          className="object-cover opacity-50" 
           priority
           quality={100}
         />
