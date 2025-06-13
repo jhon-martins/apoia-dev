@@ -34,7 +34,7 @@ export default function Home() {
 
               <div className="pt-4">
                 <form>
-                  <Button
+                  <Button 
                     type="submit"
                     size="lg"
                     className="bg-amber-500 hover:bg-amber-600 text-white font-medium px-8 h-12"
