@@ -5,7 +5,7 @@ export default async function Apoia({
 }: {
   params: Promise<{ username: string }>
 }) {
-  const { username } = await params; 
+  const { username } = await params;  
 
 
   console.log(username);
