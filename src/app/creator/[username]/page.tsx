@@ -12,7 +12,7 @@ export default async function Apoia({
 
   return (
     <div className=" min-h-[calc(100vh-64px)]">
-      <div className="w-full h-64 relative bg-black"> 
+      <div className="w-full h-64 relative bg-black">  
         <Image
           src={"https://github.com/devfraga.png"}
           alt="Banner"
